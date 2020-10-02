@@ -1,3 +1,0 @@
-﻿  lab-1.cpp
-E:\University\OSiSP-Win-API\lab-1\lab-1\lab-1.cpp(13,30): warning C4305: инициализация: усечение из "double" в "float"
-  lab-1.vcxproj -> E:\University\OSiSP-Win-API\lab-1\x64\Debug\lab-1.exe

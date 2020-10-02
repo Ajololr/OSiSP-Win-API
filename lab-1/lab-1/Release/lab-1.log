@@ -1,3 +1,0 @@
-﻿  lab-1.cpp
-lab-1.obj : error LNK2001: неразрешенный внешний символ "void __cdecl chooseBmp(void)" (?chooseBmp@@YAXXZ).
-D:\University\ОСиСП\lab-1\Release\lab-1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

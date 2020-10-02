@@ -1,9 +1,0 @@
-﻿  lab-1.cpp
-D:\University\ОСиСП\lab-1\lab-1\lab-1.cpp(13,30): warning C4305: инициализация: усечение из "double" в "float"
-D:\University\ОСиСП\lab-1\lab-1\lab-1.cpp(293,21): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
-D:\University\ОСиСП\lab-1\lab-1\lab-1.cpp(294,21): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
-D:\University\ОСиСП\lab-1\lab-1\lab-1.cpp(295,18): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
-D:\University\ОСиСП\lab-1\lab-1\lab-1.cpp(296,21): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
-D:\University\ОСиСП\lab-1\lab-1\lab-1.cpp(297,17): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
-D:\University\ОСиСП\lab-1\lab-1\lab-1.cpp(298,17): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
-  lab-1.vcxproj -> D:\University\ОСиСП\lab-1\Debug\lab-1.exe

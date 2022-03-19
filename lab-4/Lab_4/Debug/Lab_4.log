@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\University\OSiSP-Win-API\lab-4\Lab_4\Source.cpp(56,8): warning C4101: disposition: неиспользованная локальная переменная
+E:\University\OSiSP-Win-API\lab-4\Lab_4\Source.cpp(96,8): warning C4101: disposition: неиспользованная локальная переменная
+E:\University\OSiSP-Win-API\lab-4\Lab_4\Source.cpp(138,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\University\OSiSP-Win-API\lab-4\Lab_4\Source.cpp(280,8): warning C4101: disposition: неиспользованная локальная переменная
+E:\University\OSiSP-Win-API\lab-4\Lab_4\Source.cpp(279,7): warning C4101: currentKey: неиспользованная локальная переменная
+  Lab_4.vcxproj -> E:\University\OSiSP-Win-API\lab-4\Debug\Lab_4.exe

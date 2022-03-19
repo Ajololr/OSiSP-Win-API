@@ -1,0 +1,11 @@
+﻿D:\Programs\Microsoft Visual Studio\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lab2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+E:\University\OSiSP-Win-API\lab-2\lab2\lab2\Source.cpp(107,18): warning C4305: инициализация: усечение из "double" в "FLOAT"
+E:\University\OSiSP-Win-API\lab-2\lab2\lab2\Source.cpp(108,14): warning C4244: инициализация: преобразование "double" в "FLOAT", возможна потеря данных
+E:\University\OSiSP-Win-API\lab-2\lab2\lab2\Source.cpp(120,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\University\OSiSP-Win-API\lab-2\lab2\lab2\Source.cpp(127,16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\University\OSiSP-Win-API\lab-2\lab2\lab2\Source.cpp(143,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\University\OSiSP-Win-API\lab-2\lab2\lab2\Source.cpp(198,18): warning C4305: +=: усечение из "double" в "FLOAT"
+E:\University\OSiSP-Win-API\lab-2\lab2\lab2\Source.cpp(239,22): warning C4244: =: преобразование "LONG" в "FLOAT", возможна потеря данных
+E:\University\OSiSP-Win-API\lab-2\lab2\lab2\Source.cpp(240,22): warning C4244: =: преобразование "LONG" в "FLOAT", возможна потеря данных
+  lab2.vcxproj -> E:\University\OSiSP-Win-API\lab-2\lab2\Debug\lab-2-text.exe

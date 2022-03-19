@@ -1,0 +1,3 @@
+﻿D:\Programs\Microsoft Visual Studio\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Project2.cpp
+  Project2.vcxproj -> E:\University\OSiSP-Win-API\lab-2\Project2\Debug\lab-2-table.exe

@@ -1,0 +1,3 @@
+﻿  ConsoleApplication.cpp
+E:\University\OSiSP-Win-API\lab-3\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(62,10): warning C4101: res: неиспользованная локальная переменная
+  ConsoleApplication.vcxproj -> E:\University\OSiSP-Win-API\lab-3\memory-reader-lib\Debug\ConsoleApplication.exe
